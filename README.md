@@ -4,3 +4,4 @@
 # Linear regression and data visualisation 
 # Geospatial analysis in R (failed due to incomplete theoretical training)
 # Time series analysis in R
+# Time series analysis in python
